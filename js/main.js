@@ -163,11 +163,11 @@ function joinData(usStates, csvData){
 function makeColorScale(data){
 	//Picked colors from colorbrwer
 	var colorClasses = [
-		"#d01c8b",
-		"#f1b6da",
-		"#f7f7f7",
-		"#b8e186",
-		"#4dac26"
+		"#ffffcc",
+		"#a1dab4",
+		"#41b6c4",
+		"#2c7fb8",
+		"#253494"
 		];
 
 	//create color scale generator
